@@ -64,6 +64,6 @@ shall automatically resume from the same position after the time has passed.
 ### Game Screens
 
 Inline-style: 
-![alt text](https://github.com/ikeepcoding/Pac-Missileer/tree/master/android/assets/MainScreen.png "MainScreen")
+![MainScreen](https://github.com/ikeepcoding/Pac-Missileer/tree/master/android/assets/MainScreen.png "MainScreen")
 
 
