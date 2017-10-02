@@ -12,7 +12,9 @@ Game Manual (Android/ Desktop)
 
  How To Play The Game (Android)
 •	Open the application, which prompts the user to the main menu screen.
+
 •	From the main menu, click the screen to be redirected to the game play screen.
+
 •	Touch on the right half of the screen to navigate the player to the right direction, and likewise on the left half of the screen to navigate the player to the left direction. 
 •	For the android version of the game, the player can only move to the left and right of the screen.
 •	Avoid colliding with the enemies, and destroy as many of them as possible to increase your score (visible near the top left hand corner of the game screen).
