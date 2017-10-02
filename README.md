@@ -61,5 +61,8 @@ shall automatically resume from the same position after the time has passed.
 
 •	Note that the touch control used to control the player on the android platform may also be used on the PC using the mouse or touchpad.
 
+### Game Screens
+
+![alt text](https://github.com/ikeepcoding/Pac-Missileer/android/assets/MainScreen.png "MainScreen")
 
 
