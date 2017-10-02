@@ -10,7 +10,7 @@ Description:A libGDX development, with a unique fusion of PacMan and Space Invad
 Game Manual (Android/ Desktop)
 ------------------------------
 
- How To Play The Game (Android)
+ How To Play The Game (Android)...
 •	Open the application, which prompts the user to the main menu screen.
 
 •	From the main menu, click the screen to be redirected to the game play screen.
