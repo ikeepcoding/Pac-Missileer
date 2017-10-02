@@ -7,11 +7,11 @@ Description:A libGDX development, with a unique fusion of PacMan and Space Invad
              Cross-platform application, operates on Android Devices as well as Desktop. 
 
 
-Game Manual (Android/ Desktop)
+Game Manual (Android And Desktop)
 ------------------------------
 
- How To Play The Game (Android)
- ------------------------------
+### How To Play The Game (Android)
+
  
  
 •	Open the application, which prompts the user to the main menu screen.
@@ -33,8 +33,8 @@ Game Manual (Android/ Desktop)
 •	Likewise, if you do manage to pass the 5 minutes, you will win the game! Therefore, to play again, just tap on the screen.
 
 
-How To Play The Game (Desktop)
-------------------------------
+### How To Play The Game (Desktop)
+
 
 •	Open the application, which prompts the user to the main menu screen.
 
