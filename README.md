@@ -1,13 +1,14 @@
 # Pac-Missileer
 
 Project Information: Final Year Individual Project in BSc Business Computing Systems
--------------------
+======
 
-Description: A libGDX development, with a unique fusion of PacMan and Space Invaders. 
+Description:A libGDX development, with a unique fusion of PacMan and Space Invaders. 
              Cross-platform application, operates on Android Devices as well as Desktop. 
 
--------------------
+
 Game Manual (Android/ Desktop)
+------------------------------
 
  How To Play The Game (Android)
 •	Open the application, which prompts the user to the main menu screen.
